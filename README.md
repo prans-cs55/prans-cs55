@@ -61,15 +61,15 @@ Highlights:
 
 ---
 
+##  LeetCode Profile
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/PranaviGuddanti?theme=tokyonight)](https://leetcode.com/u/PranaviGuddanti/)
+___
 ## 🔹 GitHub Stats  
-![Pranavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prans-cs55&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prans-cs55&layout=compact&theme=tokyonight)  
 
 ---
 
-##  LeetCode Profile
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PranaviGuddanti?theme=tokyonight)](https://leetcode.com/u/PranaviGuddanti/)
 
 
 ## 🔹 Let’s Connect  
