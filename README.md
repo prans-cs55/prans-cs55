@@ -51,6 +51,8 @@
 Full list on my [Credly Profile](https://www.credly.com/users/venkata-sai-pranavi-guddanti.89c948ec)  
 
 Highlights:  
+- 🟢 Generative AI Professional-Oracle
+- 🟢 AI Foundations Associate-Oracle
 - 🟢 Generative AI Essentials – IBM  
 - 🟢 Artificial Intelligence Essentials – IBM  
 - 🟢 AWS Academy: Machine Learning Foundations  
