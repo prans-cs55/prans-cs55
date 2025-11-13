@@ -28,7 +28,6 @@
 - [**Youtube-Summarizer**](https://github.com/prans-cs55/Youtube-Summarizer) → Summarizes YouTube videos using Gemini + Flask/Gradio.  
 - [**Shakespeare-text-generator**](https://github.com/prans-cs55/Shakespeare-text-generator) → LSTM-based text generator trained on Shakespeare’s works.  
 - [**Alchatbot**](https://github.com/prans-cs55/Alchatbot) → Experimental chatbot built using AI models.  
-- [**my-certficates**](https://github.com/prans-cs55/my-certficates) → Repository to store and showcase certificates.  
 - [**Multi-Model-Text-Generator**](https://github.com/prans-cs55/Multi-Model-Text-Generator) → Character-level text generator with multiple models for different writing styles.  
 - [**Facemaskdetection**](https://github.com/prans-cs55/Facemaskdetection) → Real-time face mask detection with CNN + OpenCV.  
 
